@@ -8,5 +8,5 @@
 1. bash srcs/requirements/tools/hosts.sh (создание volume)
 2. make
 
-0.0.0.0:8080 - adminer. Для запуска(mariadb, kalexand, qwerty12345, data)
+0.0.0.0:8080 - adminer. Для запуска(mariadb, логин, пароль)
 0.0.0.0:8081 - cv(intra 42)
